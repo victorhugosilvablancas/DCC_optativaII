@@ -15,4 +15,4 @@ Observaciones: libreria MyTableModel propiedad de Oracle, Inc., se debe descarga
 Conecta4
 Juego MÁQUINA vs JUGADOR, inicia JUGADOR, responde MÁQUINA. Versión irresoluto la MÁQUINA siempre gana.
 
-El objetivo es obligar a la MÁQUINA a jugar aleatoria y ganar por suerto o evitar a que gane el JUGADOR.
+El objetivo es obligar a la MÁQUINA a jugar aleatoria y ganar por suerto o en modo "irresoluto" evitar que gane el JUGADOR.
