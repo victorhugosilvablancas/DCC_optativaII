@@ -4,9 +4,7 @@ import javax.swing.table.AbstractTableModel;
 
 /**
  *
- * @author Victor Hugo Silva Blancas
- * @college Universidad Autonoma de Queretaro, Mexico
- * @institution 2022 Conacyt, Mexico
+ * @author Oracle, Inc.
  */
 public class MyTableModel extends AbstractTableModel {
     private String[] columnNames = new String[0];
