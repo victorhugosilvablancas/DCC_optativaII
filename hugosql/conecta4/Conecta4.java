@@ -7,7 +7,9 @@ package hugosql.conecta4;
 
 /**
  *
- * @author victo
+ * @author Victor Hugo Silva Blancas
+ * @college Universidad Autonoma de Queretaro, Mexico
+ * @institution 2022 Conacyt, Mexico
  */
 public class Conecta4 {
 
